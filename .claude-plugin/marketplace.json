@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-cli-writer",
+  "description": "The command is the manual. A skill for writing command-line tools that AI agents operate.",
+  "owner": { "name": "panbergco", "url": "https://github.com/panbergco" },
+  "plugins": [
+    {
+      "name": "agent-cli-writer",
+      "description": "Twelve checks for a command-line tool that AI agents operate, and how to prove it on a fresh agent.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agent-cli-writer",
+  "version": "1.0.0",
+  "description": "Design, write and review command-line tools that AI agents operate: the command is the manual.",
+  "author": { "name": "panbergco", "url": "https://github.com/panbergco" },
+  "homepage": "https://github.com/panbergco/agent-cli-writer-skill",
+  "repository": "https://github.com/panbergco/agent-cli-writer-skill",
+  "license": "MIT",
+  "keywords": ["cli", "agents", "tooling", "developer-experience", "skill"]
+}
